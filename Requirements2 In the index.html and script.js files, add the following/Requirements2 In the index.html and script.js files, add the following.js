@@ -1,0 +1,14 @@
+var myFavoriteNumber= '7';
+console.log(myFavoriteNumber);
+var myFavoritePet = "Lulu";
+console.log(myFavoritePet);
+var rainIsLovely = true;
+console.log(rainIsLovely);
+var numberOne = '24';
+console.log(numberOne);
+var numberTwo = '57';
+console.log(numberTwo);
+var addNumber = 24 + 57;
+console.log(addNumber);
+var divideNumbers = 24 / 57;
+console.log(divideNumbers);
